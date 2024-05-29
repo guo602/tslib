@@ -1,0 +1,123 @@
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_Transformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9780, Precision : 0.7833, Recall : 0.6524, F-score : 0.7119 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_Autoformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9781, Precision : 0.7844, Recall : 0.6510, F-score : 0.7115 
+
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9876, Precision : 0.8795, Recall : 0.8145, F-score : 0.8457 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9584, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9872, Precision : 0.8997, Recall : 0.7781, F-score : 0.8345 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9872, Precision : 0.8997, Recall : 0.7781, F-score : 0.8345 
+
+anomaly_detection_MSL_iTransformer_MSL_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9500, Precision : 0.8616, Recall : 0.6264, F-score : 0.7254 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9876, Precision : 0.8938, Recall : 0.7965, F-score : 0.8423 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9876, Precision : 0.8938, Recall : 0.7965, F-score : 0.8423 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9872, Precision : 0.8997, Recall : 0.7781, F-score : 0.8345 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9858, Precision : 0.8480, Recall : 0.8036, F-score : 0.8252 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el6_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9863, Precision : 0.8666, Recall : 0.7916, F-score : 0.8274 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el16_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9872, Precision : 0.8712, Recall : 0.8110, F-score : 0.8400 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el36_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8675, Recall : 0.7989, F-score : 0.8318 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9866, Precision : 0.8749, Recall : 0.7911, F-score : 0.8309 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9864, Precision : 0.8525, Recall : 0.8131, F-score : 0.8323 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el16_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9865, Precision : 0.8761, Recall : 0.7873, F-score : 0.8293 
+
+anomaly_detection_SMD_iTransformer_SMD_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9859, Precision : 0.8694, Recall : 0.7782, F-score : 0.8213 
+
+anomaly_detection_SMAP_Transformer_SMAP_ftM_sl100_ll48_pl0_dm128_nh8_el3_dl1_df128_expand2_dc4_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9364, Precision : 0.8998, Recall : 0.5657, F-score : 0.6946 
+
